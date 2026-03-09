@@ -231,7 +231,7 @@ async function startsilaBotInc() {
 
             const botNumber = silaBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
             await silaBotInc.sendMessage(botNumber, {
-                text: `*╭━━━〔 🐢 𝙎𝙄𝙇𝘼 𝙈𝘿 🐢 〕━━━┈⊷*\n*┃🐢│ 🤖 𝘽𝙊𝙏 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔!*\n*┃🐢│*\n*┃🐢│ ⏰ 𝙏𝙞𝙢𝙚: ${new Date().toLocaleString()}*\n*┃🐢│ ✅ 𝙎𝙩𝙖𝙩𝙪𝙨: 𝙊𝙣𝙡𝙞𝙣𝙚 𝙖𝙣𝙙 𝙍𝙚𝙖𝙙𝙮!*\n*┃🐢│*\n*┃🐢│ ✅ 𝙈𝙖𝙠𝙚 𝙨𝙪𝙧𝙚 𝙩𝙤 𝙟𝙤𝙞𝙣 𝙗𝙚𝙡𝙤𝙬 𝙘𝙝𝙖𝙣𝙣𝙚𝙡*\n*╰━━━━━━━━━━━━━━━┈⊷*\n\n> © 𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 🐢 𝙎𝙄𝙇𝘼`,
+                text: `*╭━━━〔 🎩 𝙎𝙄𝙇𝘼 𝙈𝘿 🎩 〕━━━┈⊷*\n*┃🧸│ 🤖 𝘽𝙊𝙏 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔!*\n*┃🧸│*\n*┃🎩│ ⏰ 𝙏𝙞𝙢𝙚: ${new Date().toLocaleString()}*\n*┃🧸│ ✅ 𝙎𝙩𝙖𝙩𝙪𝙨: 𝙊𝙣𝙡𝙞𝙣𝙚 𝙖𝙣𝙙 𝙍𝙚𝙖𝙙𝙮!*\n*┃🧸│*\n*┃🎩│ ✅ 𝙈𝙖𝙠𝙚 𝙨𝙪𝙧𝙚 𝙩𝙤 𝙟𝙤𝙞𝙣 𝙗𝙚𝙡𝙤𝙬 𝙘𝙝𝙖𝙣𝙣𝙚𝙡*\n*╰━━━━━━━━━━━━━━━┈⊷*\n\n> © 𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 🎩 𝙔𝘼𝙃𝙔𝘼`,
                 contextInfo: {
                     forwardingScore: 1,
                     isForwarded: true,
