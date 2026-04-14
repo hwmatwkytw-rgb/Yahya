@@ -1,4 +1,3 @@
-{
   "name": "𝙎𝙄𝙇𝘼-𝙈𝘿",
   "description": "Javascript WhatsApp bot made ʙʏ 𝙎𝙞𝙡𝙖-𝙏𝙚𝙘𝙝",
   "logo": "https://files.catbox.moe/gnjb7s.jpg",
@@ -13,13 +12,13 @@
       "value": ""
     },  
     
-    "STICKER_NAME": {
+    "STICKER_NAME": {مصطفى 
       "description": "type your sticker pack name.",
       "required": false,
       "value": "𝙎𝙄𝙇𝘼-𝙈𝘿"
     }, 
       
-    "PREFIX": {
+    "PREFIX": {*
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
@@ -83,7 +82,7 @@
    
      }, 
     
-    "OWNER_NAME": {
+    "OWNER_NAME": {مصطفى 
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "𝙎𝙞𝙡𝙖-𝙏𝙚𝙘𝙝"
@@ -96,7 +95,7 @@
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {سكران 
       "description": "Type here the bot name.",
       "required": false,
       "value": "𝙎𝙄𝙇𝘼-𝙈𝘿"
@@ -178,13 +177,13 @@
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
-    "ANTI_DEL_PATH": {
+    "ANTI_DEL_PATH": {‏‪093-0698398‬‏
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
       "value": "log"
     }, 
 
-    "ADMIN_EVENTS": {
+    "ADMIN_EVENTS": {‏‪093-0698398‬‏
       "description": "make it true if want know who promote or demote a member .",
       "required": false,
       "value": "false"
